@@ -28,6 +28,7 @@ public class ShapePanel extends JPanel {
 	 */
 	public enum Shape {
 		SQUARE, CIRCLE, TRIANGLE;
+		//fuck you chris
 	}
 	/*
 	 * Constructor for a ShapePanel which is a slightley customized JPanel
